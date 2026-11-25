@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Chance Is a Line: Why RAIR and RSR Must Be Read Together"
+message: "If you use this code or extraction audit, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: "Ghanipour Amirhandeh"
+    given-names: "Amirhossein"
+    email: "amirhosseinghanipour@proton.me"
+version: "1.0.0"
+date-released: "2026-11-25"
+license: MIT

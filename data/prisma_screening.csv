@@ -1,0 +1,6 @@
+stage,macro_name,count,notes
+Total database records in Raees & Papangelis (2026),PrismaTotalRecords,729,"Verified from arXiv:2604.23896v1 Fig. 1: SCOPUS (N = 369) + ACM DL (N = 360)"
+Selected objective-metric studies in Raees & Papangelis (2026),PrismaEmpiricalStudies,22,"Verified from arXiv:2604.23896v1: 22 papers employing objective appropriate-reliance metrics"
+Studies reporting over-reliance in Raees & Papangelis (2026),PrismaOverRelianceCount,13,"Verified from arXiv:2604.23896v1 Fig. 2 (over-reliance: 13; under-reliance: 8)"
+Studies reporting RAIR in Raees & Papangelis (2026),PrismaRairCount,10,"Verified from arXiv:2604.23896v1 Fig. 2 (RAIR: 10; RSR: 9)"
+Included in deep condition-level audit,PrismaIncludedPapers,4,"Schemmer (2023), He (2023), Vasconcelos (2023), von Felten (2025)"
